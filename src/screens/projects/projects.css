@@ -1,6 +1,7 @@
 .projects-page {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    padding: 15vh 5vh 20vh 5vh;
 }
 
 .projects-block {
@@ -12,6 +13,13 @@
     display: grid;
     grid-column: 2;
     font-family: "Montserrat", sans-serif;
+}
+
+.github-align {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
 }
 
 footer {

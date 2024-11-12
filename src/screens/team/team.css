@@ -1,11 +1,11 @@
 .imgs {
-  background-color: #CAE9FF;
+  background-color: #FFF;
   height: 150px;
   width: 150px;
 }
 
 .team {
-  background-color: #CAE9FF;
+  background-color: #FFF;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,7 +19,6 @@
 }
 
 .person {
-  background-color: #CAE9FF;
   display: flex;
   margin: 20px;
 }

@@ -15,12 +15,16 @@ function Projects() {
       </div>
       <div className="projects-home">
         <p>A FixIt é um software em desenvolvimento, criada por um time <strong>qualificado</strong> e <strong>apaixonado</strong> por tecnologia.</p>
-        <p>Nosso frontend será feito em Javascript + framework React, e nosso backend feito na linguagem Java + framework Spring.</p>
-        <p style={{color: "#024AAC"}}>Mais informações em breve!</p>
-        <Image className="github-logo"  src="./image-3.png" alt="logo" fluid style={{height: "100px", width: "100px", color: "black"}}/>
-        <a>https://github.com/maluvasc/Focus</a>
-        <Image className="github-logo" src="./image-3.png" alt="logo" fluid style={{height: "100px", width: "100px", color: "black"}}/>
-        <a>https://github.com/maluvasc/FixIt</a>
+        <p>Nosso Front-end será feito em Javascript + framework React, e nosso Back-end feito na linguagem Java + framework Spring.</p>
+        <h1 style={{color: "#024AAC"}}>Mais informações em breve!</h1>
+        <div className="github-align">
+          <Image className="github-logo"  src="./image-3.png" alt="logo" fluid style={{height: "100px", width: "100px", color: "black"}}/>
+          <a href="https://github.com/maluvasc/Focus" style={{textDecoration: "none"}}>Repositório Focus</a>
+        </div>
+        <div className="github-align">
+          <Image className="github-logo" src="./image-3.png" alt="logo" fluid style={{height: "100px", width: "100px", color: "black"}}/>
+          <a href="https://github.com/maluvasc/FixIt"style={{textDecoration: "none"}}>Repositório e Projeto FixIt</a>
+        </div>
       </div>
       </div>
       <footer>

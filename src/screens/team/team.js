@@ -11,7 +11,7 @@ function Team() {
     <>
       <NavbarFocus />
         <div className="team">
-            <Container style={{backgroundColor: "#CAE9FF"}}>
+            <Container style={{backgroundColor: "#FFF"}}>
               <Row>
                 <Col className="person" xs={6} md={2}>
                 <div className="flex">
