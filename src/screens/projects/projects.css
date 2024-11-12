@@ -1,0 +1,25 @@
+.projects-page {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.projects-block {
+    display: grid;
+    grid-column: 1;
+}
+
+.projects-home {
+    display: grid;
+    grid-column: 2;
+    font-family: "Montserrat", sans-serif;
+}
+
+footer {
+    background-color: #024AAC;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }

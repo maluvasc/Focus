@@ -1,0 +1,15 @@
+.home-app {
+  background-color: #CAE9FF;
+}
+
+footer {
+  background-color: #024AAC;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  gap: 10px;
+  padding: 50px;
+}

@@ -1,0 +1,22 @@
+.icon {
+  background-color: #024AAC;
+  height: 90px;
+}
+
+.container {
+  background-color: #024AAC;
+  margin: 0;
+}
+
+.link {
+  font-size: large;
+  text-decoration: none;
+  background-color: #024AAC;
+  color: #FFFFFF;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+}
