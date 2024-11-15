@@ -17,7 +17,7 @@ function Team() {
                 <div className="flex">
                   <Image
                     className="imgs"
-                    src="https://uploads.spiritfanfiction.com/historias/capitulos/201706/haikyuu-x-leitor-9218701-050620172337.jpg"
+                    src="./iconenascimento.png"
                     roundedCircle
                   />
                     <h4 className="nome">Gabriel Nascimento</h4>
@@ -29,7 +29,7 @@ function Team() {
                 <div className="flex">
                   <Image
                     className="imgs"
-                    src="https://uploads.spiritfanfiction.com/historias/capitulos/201706/haikyuu-x-leitor-9218701-050620172337.jpg"
+                    src="./iconesalgado.png"
                     roundedCircle
                   />
                   <h4 className="nome">Gabriel Salgado</h4>
@@ -41,7 +41,7 @@ function Team() {
                 <div className="flex">
                   <Image
                     className="imgs"
-                    src="https://uploads.spiritfanfiction.com/historias/capitulos/201706/haikyuu-x-leitor-9218701-050620172337.jpg/"
+                    src="./iconeleticia.png"
                     roundedCircle
                   />
                   <h4 className="nome">Letícia Gomes</h4>
@@ -53,7 +53,7 @@ function Team() {
                 <div className="flex">
                   <Image
                     className="imgs"
-                    src="https://uploads.spiritfanfiction.com/historias/capitulos/201706/haikyuu-x-leitor-9218701-050620172337.jpg"
+                    src="./iconemalu.png"
                     roundedCircle
                   />
                   <h4 className="nome">Malu Vasconcelos</h4>
@@ -65,7 +65,7 @@ function Team() {
                 <div className="flex">
                   <Image
                     className="imgs"
-                    src="https://uploads.spiritfanfiction.com/historias/capitulos/201706/haikyuu-x-leitor-9218701-050620172337.jpg"
+                    src="./iconepaulo.png"
                     roundedCircle
                   />
                   <h4 className="nome">Paulo Miguel</h4>
