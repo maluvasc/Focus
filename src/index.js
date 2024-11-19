@@ -25,7 +25,7 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <RouterProvider router={router} basename={process.env.PUBLIC_URL}></RouterProvider>
+    <RouterProvider router={router} basename={"/Focus"}></RouterProvider>
   </React.StrictMode>,
 );
 
