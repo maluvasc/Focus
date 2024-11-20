@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/Focus/static/css/main.600fa12a.css",
-    "main.js": "/Focus/static/js/main.1f76cd47.js",
+    "main.css": "/Focus/static/css/main.5f39cc18.css",
+    "main.js": "/Focus/static/js/main.4ba6496d.js",
     "static/js/453.b06ab37a.chunk.js": "/Focus/static/js/453.b06ab37a.chunk.js",
+    "static/media/photo-code2.png": "/Focus/static/media/photo-code2.4069b008c4419ea92e9d.png",
+    "static/media/iconeleticia.png": "/Focus/static/media/iconeleticia.9d6225aa33669d43e2bc.png",
+    "static/media/iconemalu.png": "/Focus/static/media/iconemalu.75fbdaa9c351685908d6.png",
+    "static/media/iconenascimento.png": "/Focus/static/media/iconenascimento.9027882986386725dc51.png",
+    "static/media/iconepaulo.png": "/Focus/static/media/iconepaulo.3d005f1321f6202e0b6a.png",
+    "static/media/iconesalgado.png": "/Focus/static/media/iconesalgado.18e30c717b1b22c6c150.png",
+    "static/media/focus.png": "/Focus/static/media/focus.1ccba5b24958c8f4edd1.png",
     "index.html": "/Focus/index.html",
-    "main.600fa12a.css.map": "/Focus/static/css/main.600fa12a.css.map",
-    "main.1f76cd47.js.map": "/Focus/static/js/main.1f76cd47.js.map",
+    "main.5f39cc18.css.map": "/Focus/static/css/main.5f39cc18.css.map",
+    "main.4ba6496d.js.map": "/Focus/static/js/main.4ba6496d.js.map",
     "453.b06ab37a.chunk.js.map": "/Focus/static/js/453.b06ab37a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.600fa12a.css",
-    "static/js/main.1f76cd47.js"
+    "static/css/main.5f39cc18.css",
+    "static/js/main.4ba6496d.js"
   ]
 }
